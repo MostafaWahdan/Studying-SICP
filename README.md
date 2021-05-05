@@ -1,9 +1,9 @@
 # What is this?
-====================================================================
+
 This is a repository I'm using to track my progress as I read and study [Structure and Interpretation of Computer Programming](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) (a.k.a. SICP), a legendary computer science book that uses Scheme, a minimalistic dialect of the programming language Lisp, to explore fundamental principles of abstraction.
 
 # What is your setup for running Lisp code?
-====================================================================
+
 I'm using Windows 10 OS as my main operating system and for the course I run WSL2 Ubuntu 20.04.2 LTS. I spent the best part of two days setting up everything to be able to follow along with the book's examples and excercises. 
 
 + I followed [this](https://youtu.be/IL7Jd9rjgrM) tutorial to setup WSL2 on my machine. It gets into how to create a GUI interface too, but that won't be needed for the purposes of this setup.
